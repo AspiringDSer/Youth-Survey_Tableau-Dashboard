@@ -12,7 +12,7 @@ This README documents about the project and future plan for development. To chec
 There is an ever growing need to effectively clean and analyze customer data. Surveys is one form of a customer data source. I have taken a [Kaggle Dataset](https://www.kaggle.com/miroslavsabo/young-people-survey) that contains youth questionnarie information and preprocessed it. Next, I made a Tableau Dashboard visualize the cleaned data.  
 
 # About the Project <a name='About-the-Project'></a>
-![Survey Dashboard](./images/youthsurvey_dashboard.png)
+![Survey Dashboard](./images/youthsurvey_dashboard.PNG)
 [Tableau Public](https://public.tableau.com/views/YouthSurvey_16293005874810/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 Note: I have attached the Tableau Workbook, so one can view the Dashboard in the Workbook as well.
