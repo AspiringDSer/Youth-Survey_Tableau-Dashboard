@@ -24,7 +24,7 @@ In attempt to mimic real-life datasets, I have uploaded the Youth Survey Dataset
 
 ## Data Wrangling 
 
-I used Python to clean the data. I needed to create a completely new dataframe in order to allow Tableau to visual the data. Once the data was preprocessed, I exported it into CSV file, `survey.csv`.  
+I used Python to clean the data. You can find the [Jupyter Notebook](https://github.com/AspiringDSer/Youth-Survey_Tableau-Dashboard/blob/master/EDA/survey-EDA.ipynb) in the EDA folder. I needed to create a completely new dataframe in order to allow Tableau to visual the data. Once the data was preprocessed, I exported it into CSV file, `survey.csv`.  
 
 ## Tableau Dashboard
 
